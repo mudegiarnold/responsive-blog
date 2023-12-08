@@ -1,0 +1,17 @@
+[33mcommit 72d80546fa7c8c8adfa814f131981e302ad72667[m[33m ([m[1;36mHEAD -> [m[1;32mma/add-meta-tags[m[33m)[m
+Author: mudegiarnold <136020298+mudegiarnold@users.noreply.github.com>
+Date:   Fri Dec 8 11:25:54 2023 +0000
+
+    Add Page
+
+[33mcommit 6edee30c1340119504e33f3c6283cb1f593d0bca[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: mudegiarnold <136020298+mudegiarnold@users.noreply.github.com>
+Date:   Fri Dec 8 10:54:59 2023 +0000
+
+    added index.html,base.css and styles.css files
+
+[33mcommit 65c3a4d00ac794535a82fee0625f088890f45fae[m
+Author: mudegiarnold <136020298+mudegiarnold@users.noreply.github.com>
+Date:   Fri Dec 8 09:16:28 2023 +0300
+
+    Initial commit
